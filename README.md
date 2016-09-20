@@ -86,9 +86,3 @@ The dropdown below provides a basic order of steps to complete in order to build
   </ol>
 
 </details>
-
-
-
-
-## Additional Resources
-- [External Resource](#)
